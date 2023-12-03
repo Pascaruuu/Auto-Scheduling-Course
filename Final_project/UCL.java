@@ -194,7 +194,6 @@ public class UCL {
     }
 
     // A method that prints the list
-    // A method that prints the list
     public void printUCL() {
         System.out.println("\n");
         System.out.print("\u001B[1m");

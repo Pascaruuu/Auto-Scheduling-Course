@@ -14,12 +14,6 @@ public class Main {
         CourseSheet courseSheet = new CourseSheet();
         // Create a new user's collection list object
         UCL ucl = new UCL();
-        // Print a welcome message
-        System.out.println("=======================================");
-        System.out.print("\u001B[1m");
-        System.out.println("Welcome to the course selection program.");
-        System.out.print("\u001B[0m");
-        System.out.println("\n");
         // Show the three options to the user until they choose to exit
         boolean exit = false;
         while (!exit) {
